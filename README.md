@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Erik! 👋
 
-<!--
-**ehm435/ehm435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Junior Computer Engineer** recently graduated from the University of Almería. I focus on **Data Engineering** and **Information Technology**, with a practical background in cybersecurity.
 
-Here are some ideas to get you started:
+I enjoy building things that work—whether it's an ELT pipeline, a data model, or even repairing electronics in my spare time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ My Technical Stack
+
+- **Data & SQL:** dbt, Snowflake, BigQuery, and Advanced SQL.
+- **Languages:** Python, Java, C++, SQL.
+- **Visualization:** Power BI & Looker Studio.
+- **Security:** Network analysis (Cisco CCNA) and vulnerability detection.
+
+---
+
+## 📂 Practical Projects
+
+- **Analytical Data Platform:** Building end-to-end transformation layers using **Snowflake + dbt**.
+- **AI-based Classifier:** Automated data categorization.
+- **Cybersecurity Simulations:** Kernel analysis and attack detection using Snort and Metasploit.
+- **Automation:** Dashboard automation via Meta APIs.
+
+---
+
+## 📫 Let's Connect
+
+If you want to see my full professional background, certifications, or just say hi:
+
+- **LinkedIn:** [Erik Haba Molino](https://linkedin.com/in/erik-haba-molino-176719246)
+
+*"Always learning, one query at a time."*

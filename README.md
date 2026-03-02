@@ -2,7 +2,7 @@
 
 I am a **Junior Computer Engineer** recently graduated from the University of Almería. I focus on **Data Engineering** and **Information Technology**, with a practical background in cybersecurity.
 
-I enjoy building things that work—whether it's an ELT pipeline, a data model, or even repairing electronics in my spare time.
+I enjoy building things that work whether it's an ELT pipeline, a data model, or even repairing electronics in my spare time.
 
 ---
 

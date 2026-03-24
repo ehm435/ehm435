@@ -8,7 +8,7 @@ I enjoy building things that work whether it's an ELT pipeline, a data model, or
 
 ## 🛠️ My Technical Stack
 
-- **Data & SQL:** dbt, Snowflake, BigQuery, and Advanced SQL.
+- **Data & SQL:** dbt, Snowflake, BigQuery, DuckDB, and Advanced SQL.
 - **Languages:** Python, Java, C++, SQL.
 - **Visualization:** Power BI & Looker Studio.
 - **Security:** Network analysis (Cisco CCNA) and vulnerability detection.
